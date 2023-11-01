@@ -1,0 +1,7 @@
+continent,code,name,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Europe,AND,Andorra,Southern Europe,468.0,1278.0,78000,83.5,1630.0,,Andorra,Parliamentary Coprincipality,,55.0,AD
+Europe,CHE,Switzerland,Western Europe,41284.0,1499.0,7160400,79.6,264478.0,256092.0,Schweiz/Suisse/Svizzera/Svizra,Federation,Adolf Ogi,3248.0,CH
+Asia,JPN,Japan,Eastern Asia,377829.0,-660.0,126714000,80.7,3787042.0,4192638.0,Nihon/Nippon,Constitutional Monarchy,Akihito,1532.0,JP
+Asia,MAC,Macao,Eastern Asia,18.0,,473000,81.6,5749.0,5940.0,Macau/Aomen,Special Administrative Region of China,Jiang Zemin,2454.0,MO
+Asia,SGP,Singapore,Southeast Asia,618.0,1965.0,3567000,80.1,86503.0,96318.0,Singapore/Singapura/Xinjiapo/Singapur,Republic,Sellapan Rama Nathan,3208.0,SG
+Europe,SMR,San Marino,Southern Europe,61.0,885.0,27000,81.1,510.0,,San Marino,Republic,,3171.0,SM
